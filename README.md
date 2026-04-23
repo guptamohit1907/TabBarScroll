@@ -1,2 +1,1 @@
-# TabBarScroll
-TabBarScroll
+Apple Stores App Minimizable Tab Bar using SwiftUI | Scroll to Hide Tab Bar SwiftUI | SwiftUI Minimizable Tab Bar | SwiftUI Scroll to hide tab bar | SwiftUI Animations | SwiftUI 2026 | iOS 26 | SwiftUI Xcode 26 | SwiftUI iOS 26
